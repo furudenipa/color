@@ -1,0 +1,18 @@
+[
+  {
+    "id": "okabe-ito",
+    "name": "Okabe–Ito",
+    "colors": [
+      "#000000",
+      "#E69F00",
+      "#56B4E9",
+      "#009E73",
+      "#F0E442",
+      "#0072B2",
+      "#D55E00",
+      "#CC79A7"
+    ],
+    "source": "https://jfly.uni-koeln.de/color/",
+    "note": "Figure 16: RGB (0–255) column, including black, in numbered order. Original yellow #F0E442; not the alternative #F5C710."
+  }
+]

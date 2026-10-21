@@ -1,0 +1,125 @@
+[
+  {
+    "id": "tol-bright",
+    "name": "Paul Tol / Bright",
+    "colors": [
+      "#4477AA",
+      "#EE6677",
+      "#228833",
+      "#CCBB44",
+      "#66CCEE",
+      "#AA3377",
+      "#BBBBBB"
+    ],
+    "source": "https://sronpersonalpages.nl/~pault/",
+    "note": "2026-07-31 edition, figures 1–8, default order (Pale: displayed order). Muted excludes the separate bad-data color #DDDDDD."
+  },
+  {
+    "id": "tol-high-contrast",
+    "name": "Paul Tol / High-contrast",
+    "colors": [
+      "#004488",
+      "#DDAA33",
+      "#BB5566"
+    ],
+    "source": "https://sronpersonalpages.nl/~pault/",
+    "note": "2026-07-31 edition, figures 1–8, default order (Pale: displayed order). Muted excludes the separate bad-data color #DDDDDD."
+  },
+  {
+    "id": "tol-vibrant",
+    "name": "Paul Tol / Vibrant",
+    "colors": [
+      "#EE7733",
+      "#0077BB",
+      "#33BBEE",
+      "#EE3377",
+      "#CC3311",
+      "#009988",
+      "#BBBBBB"
+    ],
+    "source": "https://sronpersonalpages.nl/~pault/",
+    "note": "2026-07-31 edition, figures 1–8, default order (Pale: displayed order). Muted excludes the separate bad-data color #DDDDDD."
+  },
+  {
+    "id": "tol-muted",
+    "name": "Paul Tol / Muted",
+    "colors": [
+      "#CC6677",
+      "#332288",
+      "#DDCC77",
+      "#117733",
+      "#88CCEE",
+      "#882255",
+      "#44AA99",
+      "#999933",
+      "#AA4499"
+    ],
+    "source": "https://sronpersonalpages.nl/~pault/",
+    "note": "2026-07-31 edition, figures 1–8, default order (Pale: displayed order). Muted excludes the separate bad-data color #DDDDDD."
+  },
+  {
+    "id": "tol-medium-contrast",
+    "name": "Paul Tol / Medium-contrast",
+    "colors": [
+      "#6699CC",
+      "#004488",
+      "#EECC66",
+      "#994455",
+      "#997700",
+      "#EE99AA"
+    ],
+    "source": "https://sronpersonalpages.nl/~pault/",
+    "note": "2026-07-31 edition, figures 1–8, default order (Pale: displayed order). Muted excludes the separate bad-data color #DDDDDD."
+  },
+  {
+    "id": "tol-dark",
+    "name": "Paul Tol / Dark",
+    "colors": [
+      "#4477BB",
+      "#CC4466",
+      "#228833",
+      "#2255AA",
+      "#993366",
+      "#006644",
+      "#117788",
+      "#882288",
+      "#BB4488",
+      "#775500",
+      "#444444"
+    ],
+    "source": "https://sronpersonalpages.nl/~pault/",
+    "note": "2026-07-31 edition, figures 1–8, default order (Pale: displayed order). Muted excludes the separate bad-data color #DDDDDD."
+  },
+  {
+    "id": "tol-pale",
+    "name": "Paul Tol / Pale",
+    "colors": [
+      "#AACCEE",
+      "#CCEEFF",
+      "#BBDDBB",
+      "#EEEEBB",
+      "#FFBBCC",
+      "#EEBBDD",
+      "#DDDDDD"
+    ],
+    "source": "https://sronpersonalpages.nl/~pault/",
+    "note": "2026-07-31 edition, figures 1–8, default order (Pale: displayed order). Muted excludes the separate bad-data color #DDDDDD."
+  },
+  {
+    "id": "tol-light",
+    "name": "Paul Tol / Light",
+    "colors": [
+      "#77AADD",
+      "#EE8866",
+      "#EEDD88",
+      "#FFAABB",
+      "#99DDFF",
+      "#44BB99",
+      "#BBCC33",
+      "#AAAA00",
+      "#DDDDDD"
+    ],
+    "source": "https://sronpersonalpages.nl/~pault/",
+    "note": "2026-07-31 edition, figures 1–8, default order (Pale: displayed order). Muted excludes the separate bad-data color #DDDDDD."
+  }
+]
